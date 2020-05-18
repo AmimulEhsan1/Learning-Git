@@ -1,2 +1,3 @@
 # Learning-Git
 This is the first repository created by me while learning R programming. This repository is nothing but following instruction. 
+Hi,I am Amimul ehsan. I am from Dhaka University,Bangladesh.Dhaka university coursera programme gave me the perfect opportunity for learning R programming. Actually this is the first of ten course.This ten course specialization is called The Data Scientists Toolbox.I think this course will help me being a good researcher. As i am growing up pursuing a carrer in social research is becoming more appealing towards me.To be honest i like this coursera course even more than that of my regular course. 
